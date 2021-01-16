@@ -1,0 +1,64 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3761
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:7: error: cannot find symbol
+            grid[0][0] = O;
+                         ^
+      symbol:   variable O
+      location: class Main
+    Main.java:8: error: cannot find symbol
+            grid[0][1] = X;
+                         ^
+      symbol:   variable X
+      location: class Main
+    Main.java:9: error: cannot find symbol
+            grid[0][2] = X;
+                         ^
+      symbol:   variable X
+      location: class Main
+    Main.java:10: error: cannot find symbol
+            grid[1][0] = O;
+                         ^
+      symbol:   variable O
+      location: class Main
+    Main.java:11: error: cannot find symbol
+            grid[1][1] = X;
+                         ^
+      symbol:   variable X
+      location: class Main
+    Main.java:12: error: cannot find symbol
+            grid[1][2] = O;
+                         ^
+      symbol:   variable O
+      location: class Main
+    Main.java:13: error: cannot find symbol
+            grid[2][0] = X;
+                         ^
+      symbol:   variable X
+      location: class Main
+    Main.java:14: error: cannot find symbol
+            grid[2][1] = O;
+                         ^
+      symbol:   variable O
+      location: class Main
+    Main.java:15: error: cannot find symbol
+            grid[2][2] = X;
+                         ^
+      symbol:   variable X
+      location: class Main
+    9 errors
+  time: Sat, 16 Jan 2021 02:01:23 UTC
+record: -1
